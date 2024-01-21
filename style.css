@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+ 
+}
+h4{
+    display: inline-block;
+    margin-left: 40px;
+  margin-top: 10px;
+  cursor: pointer;
+ 
+ 
+ 
+}
+a{
+    display: inline-block;
+    margin: 2px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    font-family: Times New Roman ;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+a:focus{
+    background-color: rgb(155, 80, 80);
+    color: white;
+}
+h3{
+    display: inline-block;
+    float: right;
+    margin: 0px 1px;
+    margin-top: 27px;
+    margin-right: 40px;
+    font-size: 17px;
+    cursor: pointer;
+}
+h5{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+h1{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 20px;
+    line-height: 20px;
+    margin-left: 10px;
+  
+}
+span{
+    background-color: rgb(11, 194, 11);
+    color: white;
+    position: absolute;
+   
+}
+.abc1{
+    background-color: rgba(57, 69, 70, 0.041);
+    width: 1300px;
+    height: 1200px;
+   
+   
+    display: inline-block;
+}
+img{
+    margin-top: 80px;
+    margin-left: 5px;
+    display: inline;
+    width: 600px;
+    height: 500px;
+    margin: 40px 30px;
+    border-radius: 5px;
+}
+.ashraf{
+    background-color: rgba(70, 59, 59, 0.158);
+    width: 690px;
+    height: 650px;
+    margin-left: 75px;
+    margin-top: 30px;
+    border-radius: 5px;
+    
+}
+#haroon{
+
+    width: 350px;
+    height: 1400px;
+   margin-top: 33px;
+   position: absolute;
+   left: 769px;
+   background-color: rgba(70, 59, 59, 0.158);
+   right: 20px;
+  
+  
+}
+p{
+    font-size: 25px;
+    font-family: Georgia (serif);
+    text-align: center;
+}
+
+.sexy{
+    width: 347px;
+    height: 250px;
+    margin-top: 1px;
+    margin-left: 2px;
+    
+}
+button{
+    margin-left: 60px;
+    width: 190px;
+    height: 40px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+.button2{
+    background-image:url(./png-clipart-logo-eye-cute-eyes-face-color-thumbnail.png) ;
+    background-position: left ;
+    background-size: 40px;
+    size: 20px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    background-color: white;
+    color: lightblue;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+button2:hover{
+    background-color: black;
+    color: white;
+}
+
+.hadia{
+   position: absolute;
+   top: 1317px;
+   display: inline-block;
+   margin-left: 300px;
+   
+}
+.ali1{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 600px;
+   
+}
+.ali2{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 900px;
+  
+}
+.ali3{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 320px;
+    color: gray;
+  
+}
+.ali4{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 10px;
+    text-align: left;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position: left center ;
+ 
+
+}
+h2{
+    margin-left: 10px;
+}
